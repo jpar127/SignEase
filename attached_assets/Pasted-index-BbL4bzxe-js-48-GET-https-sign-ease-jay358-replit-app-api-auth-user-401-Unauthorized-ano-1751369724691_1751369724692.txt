@@ -1,0 +1,232 @@
+index-BbL4bzxe.js:48 
+ GET https://sign-ease-jay358.replit.app/api/auth/user 401 (Unauthorized)
+(anonymous)	@	index-BbL4bzxe.js:48
+i	@	index-BbL4bzxe.js:48
+y	@	index-BbL4bzxe.js:48
+start	@	index-BbL4bzxe.js:48
+fetch	@	index-BbL4bzxe.js:48
+Nd	@	index-BbL4bzxe.js:48
+onSubscribe	@	index-BbL4bzxe.js:48
+subscribe	@	index-BbL4bzxe.js:48
+(anonymous)	@	index-BbL4bzxe.js:48
+VC	@	index-BbL4bzxe.js:38
+ev	@	index-BbL4bzxe.js:40
+xc	@	index-BbL4bzxe.js:40
+DS	@	index-BbL4bzxe.js:40
+Vo	@	index-BbL4bzxe.js:38
+Z2	@	index-BbL4bzxe.js:40
+Qo	@	index-BbL4bzxe.js:40
+S_	@	index-BbL4bzxe.js:40
+T	@	index-BbL4bzxe.js:25
+N	@	index-BbL4bzxe.js:25
+
+index-BbL4bzxe.js:48 
+ GET https://sign-ease-jay358.replit.app/api/documents 401 (Unauthorized)
+(anonymous)	@	index-BbL4bzxe.js:48
+i	@	index-BbL4bzxe.js:48
+y	@	index-BbL4bzxe.js:48
+start	@	index-BbL4bzxe.js:48
+fetch	@	index-BbL4bzxe.js:48
+Nd	@	index-BbL4bzxe.js:48
+onSubscribe	@	index-BbL4bzxe.js:48
+subscribe	@	index-BbL4bzxe.js:48
+(anonymous)	@	index-BbL4bzxe.js:48
+VC	@	index-BbL4bzxe.js:38
+ev	@	index-BbL4bzxe.js:40
+xc	@	index-BbL4bzxe.js:40
+Z2	@	index-BbL4bzxe.js:40
+Qo	@	index-BbL4bzxe.js:40
+DS	@	index-BbL4bzxe.js:40
+Vo	@	index-BbL4bzxe.js:38
+(anonymous)	@	index-BbL4bzxe.js:40
+setTimeout		
+r	@	index-BbL4bzxe.js:48
+o	@	index-BbL4bzxe.js:48
+batch	@	index-BbL4bzxe.js:48
+kr	@	index-BbL4bzxe.js:48
+setData	@	index-BbL4bzxe.js:48
+setQueryData	@	index-BbL4bzxe.js:48
+onSuccess	@	index-BbL4bzxe.js:253
+execute	@	index-BbL4bzxe.js:48
+await in execute		
+mutate	@	index-BbL4bzxe.js:48
+u	@	index-BbL4bzxe.js:308
+vL	@	index-BbL4bzxe.js:37
+xL	@	index-BbL4bzxe.js:37
+wL	@	index-BbL4bzxe.js:37
+iS	@	index-BbL4bzxe.js:37
+PC	@	index-BbL4bzxe.js:37
+(anonymous)	@	index-BbL4bzxe.js:37
+yb	@	index-BbL4bzxe.js:40
+ZE	@	index-BbL4bzxe.js:37
+ty	@	index-BbL4bzxe.js:37
+Gw	@	index-BbL4bzxe.js:37
+jL	@	index-BbL4bzxe.js:37
+index-BbL4bzxe.js:40 TypeError: Cannot read properties of null (reading 'length')
+    at Ty (index-BbL4bzxe.js:297:9788)
+    at ub (index-BbL4bzxe.js:38:16998)
+    at p0 (index-BbL4bzxe.js:40:3139)
+    at P_ (index-BbL4bzxe.js:40:44737)
+    at C_ (index-BbL4bzxe.js:40:39727)
+    at Y2 (index-BbL4bzxe.js:40:39655)
+    at dg (index-BbL4bzxe.js:40:39508)
+    at C0 (index-BbL4bzxe.js:40:35875)
+    at DS (index-BbL4bzxe.js:40:36678)
+    at Vo (index-BbL4bzxe.js:38:3274)
+f0	@	index-BbL4bzxe.js:40
+t.callback	@	index-BbL4bzxe.js:40
+gS	@	index-BbL4bzxe.js:38
+MS	@	index-BbL4bzxe.js:40
+b_	@	index-BbL4bzxe.js:40
+q2	@	index-BbL4bzxe.js:40
+Z2	@	index-BbL4bzxe.js:40
+Qo	@	index-BbL4bzxe.js:40
+DS	@	index-BbL4bzxe.js:40
+Vo	@	index-BbL4bzxe.js:38
+(anonymous)	@	index-BbL4bzxe.js:40
+setTimeout		
+r	@	index-BbL4bzxe.js:48
+o	@	index-BbL4bzxe.js:48
+batch	@	index-BbL4bzxe.js:48
+kr	@	index-BbL4bzxe.js:48
+setData	@	index-BbL4bzxe.js:48
+onSuccess	@	index-BbL4bzxe.js:48
+h	@	index-BbL4bzxe.js:48
+Promise.then		
+y	@	index-BbL4bzxe.js:48
+start	@	index-BbL4bzxe.js:48
+fetch	@	index-BbL4bzxe.js:48
+Nd	@	index-BbL4bzxe.js:48
+onSubscribe	@	index-BbL4bzxe.js:48
+subscribe	@	index-BbL4bzxe.js:48
+(anonymous)	@	index-BbL4bzxe.js:48
+VC	@	index-BbL4bzxe.js:38
+ev	@	index-BbL4bzxe.js:40
+xc	@	index-BbL4bzxe.js:40
+Z2	@	index-BbL4bzxe.js:40
+Qo	@	index-BbL4bzxe.js:40
+DS	@	index-BbL4bzxe.js:40
+Vo	@	index-BbL4bzxe.js:38
+(anonymous)	@	index-BbL4bzxe.js:40
+setTimeout		
+r	@	index-BbL4bzxe.js:48
+o	@	index-BbL4bzxe.js:48
+batch	@	index-BbL4bzxe.js:48
+kr	@	index-BbL4bzxe.js:48
+setData	@	index-BbL4bzxe.js:48
+setQueryData	@	index-BbL4bzxe.js:48
+onSuccess	@	index-BbL4bzxe.js:253
+execute	@	index-BbL4bzxe.js:48
+await in execute		
+mutate	@	index-BbL4bzxe.js:48
+u	@	index-BbL4bzxe.js:308
+vL	@	index-BbL4bzxe.js:37
+xL	@	index-BbL4bzxe.js:37
+wL	@	index-BbL4bzxe.js:37
+iS	@	index-BbL4bzxe.js:37
+PC	@	index-BbL4bzxe.js:37
+(anonymous)	@	index-BbL4bzxe.js:37
+yb	@	index-BbL4bzxe.js:40
+ZE	@	index-BbL4bzxe.js:37
+ty	@	index-BbL4bzxe.js:37
+Gw	@	index-BbL4bzxe.js:37
+jL	@	index-BbL4bzxe.js:37
+index-BbL4bzxe.js:297 Uncaught TypeError: Cannot read properties of null (reading 'length')
+    at Ty (index-BbL4bzxe.js:297:9788)
+    at ub (index-BbL4bzxe.js:38:16998)
+    at p0 (index-BbL4bzxe.js:40:3139)
+    at P_ (index-BbL4bzxe.js:40:44737)
+    at C_ (index-BbL4bzxe.js:40:39727)
+    at Y2 (index-BbL4bzxe.js:40:39655)
+    at dg (index-BbL4bzxe.js:40:39508)
+    at C0 (index-BbL4bzxe.js:40:35875)
+    at DS (index-BbL4bzxe.js:40:36678)
+    at Vo (index-BbL4bzxe.js:38:3274)
+Ty	@	index-BbL4bzxe.js:297
+ub	@	index-BbL4bzxe.js:38
+p0	@	index-BbL4bzxe.js:40
+P_	@	index-BbL4bzxe.js:40
+C_	@	index-BbL4bzxe.js:40
+Y2	@	index-BbL4bzxe.js:40
+dg	@	index-BbL4bzxe.js:40
+C0	@	index-BbL4bzxe.js:40
+DS	@	index-BbL4bzxe.js:40
+Vo	@	index-BbL4bzxe.js:38
+(anonymous)	@	index-BbL4bzxe.js:40
+setTimeout		
+r	@	index-BbL4bzxe.js:48
+o	@	index-BbL4bzxe.js:48
+batch	@	index-BbL4bzxe.js:48
+kr	@	index-BbL4bzxe.js:48
+setData	@	index-BbL4bzxe.js:48
+onSuccess	@	index-BbL4bzxe.js:48
+h	@	index-BbL4bzxe.js:48
+Promise.then		
+y	@	index-BbL4bzxe.js:48
+start	@	index-BbL4bzxe.js:48
+fetch	@	index-BbL4bzxe.js:48
+Nd	@	index-BbL4bzxe.js:48
+onSubscribe	@	index-BbL4bzxe.js:48
+subscribe	@	index-BbL4bzxe.js:48
+(anonymous)	@	index-BbL4bzxe.js:48
+VC	@	index-BbL4bzxe.js:38
+ev	@	index-BbL4bzxe.js:40
+xc	@	index-BbL4bzxe.js:40
+Z2	@	index-BbL4bzxe.js:40
+Qo	@	index-BbL4bzxe.js:40
+DS	@	index-BbL4bzxe.js:40
+Vo	@	index-BbL4bzxe.js:38
+(anonymous)	@	index-BbL4bzxe.js:40
+setTimeout		
+r	@	index-BbL4bzxe.js:48
+o	@	index-BbL4bzxe.js:48
+batch	@	index-BbL4bzxe.js:48
+kr	@	index-BbL4bzxe.js:48
+setData	@	index-BbL4bzxe.js:48
+setQueryData	@	index-BbL4bzxe.js:48
+onSuccess	@	index-BbL4bzxe.js:253
+execute	@	index-BbL4bzxe.js:48
+await in execute		
+mutate	@	index-BbL4bzxe.js:48
+u	@	index-BbL4bzxe.js:308
+vL	@	index-BbL4bzxe.js:37
+xL	@	index-BbL4bzxe.js:37
+wL	@	index-BbL4bzxe.js:37
+iS	@	index-BbL4bzxe.js:37
+PC	@	index-BbL4bzxe.js:37
+(anonymous)	@	index-BbL4bzxe.js:37
+yb	@	index-BbL4bzxe.js:40
+ZE	@	index-BbL4bzxe.js:37
+ty	@	index-BbL4bzxe.js:37
+Gw	@	index-BbL4bzxe.js:37
+jL	@	index-BbL4bzxe.js:37
+index-BbL4bzxe.js:48 
+ GET https://sign-ease-jay358.replit.app/api/auth/user 401 (Unauthorized)
+(anonymous)	@	index-BbL4bzxe.js:48
+i	@	index-BbL4bzxe.js:48
+y	@	index-BbL4bzxe.js:48
+start	@	index-BbL4bzxe.js:48
+fetch	@	index-BbL4bzxe.js:48
+(anonymous)	@	index-BbL4bzxe.js:48
+(anonymous)	@	index-BbL4bzxe.js:48
+batch	@	index-BbL4bzxe.js:48
+refetchQueries	@	index-BbL4bzxe.js:48
+(anonymous)	@	index-BbL4bzxe.js:48
+batch	@	index-BbL4bzxe.js:48
+invalidateQueries	@	index-BbL4bzxe.js:48
+onSuccess	@	index-BbL4bzxe.js:253
+execute	@	index-BbL4bzxe.js:48
+await in execute		
+mutate	@	index-BbL4bzxe.js:48
+u	@	index-BbL4bzxe.js:308
+vL	@	index-BbL4bzxe.js:37
+xL	@	index-BbL4bzxe.js:37
+wL	@	index-BbL4bzxe.js:37
+iS	@	index-BbL4bzxe.js:37
+PC	@	index-BbL4bzxe.js:37
+(anonymous)	@	index-BbL4bzxe.js:37
+yb	@	index-BbL4bzxe.js:40
+ZE	@	index-BbL4bzxe.js:37
+ty	@	index-BbL4bzxe.js:37
+Gw	@	index-BbL4bzxe.js:37
+jL	@	index-BbL4bzxe.js:37
